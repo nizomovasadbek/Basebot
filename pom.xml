@@ -19,7 +19,7 @@
         <dependency>
             <groupId>org.telegram</groupId>
             <artifactId>telegrambots</artifactId>
-            <version>5.1.0</version>
+            <version>6.1.0</version>
         </dependency>
     </dependencies>
 
@@ -48,7 +48,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>org.example.Main</mainClass>
+                            <mainClass>uz.numeric.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
